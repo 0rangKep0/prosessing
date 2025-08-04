@@ -1,4 +1,4 @@
 1 Key = OWNERS
-NumberConnect =  = Berhasil Connect
+NumberConnect = 6283133675770
 2 Key = OWNER2
-NumberConnect =  = Berhasil Connect
+NumberConnect = 6285398570051
